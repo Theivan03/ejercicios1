@@ -6,14 +6,16 @@
     <title>Mi título de página</title>
     <link rel="stylesheet" href="css/layout.css">
   </head>
-  <body>{
-   width : 70%;
-   margin: 0 auto;
-     }
+  <body>
 
 
    <h1>Header</h1>
-
+<?php
+$a=546;
+$b=200;
+$c=($a*$b)/2;
+echo($c);
+?>
    <img src="imagenes/increibles.png" width="100px"/>
 
    <ul>
