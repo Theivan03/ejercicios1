@@ -6,7 +6,11 @@
     <title>Mi título de página</title>
     <link rel="stylesheet" href="css/layout.css">
   </head>
-  <body>
+  <body>{
+   width : 70%;
+   margin: 0 auto;
+     }
+
 
    <h1>Header</h1>
 
