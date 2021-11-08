@@ -10,6 +10,14 @@
 
 
    <h1>Header</h1>
+   <nav>
+      <ul>
+         <li><a href="#">Home</a></li>
+         <li><a href="#">Nuestro equipo</a></li>
+         <li><a href="#">Proyectos</a></li>
+         <li><a href="#">Contactos</a></li>
+      </ul>
+</nav>
 <?php
 $a=546;
 $b=200;
